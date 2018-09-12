@@ -1,20 +1,20 @@
 body {
     font-family: sans-serif;
-    background-color: dimgray;
+    background-color: rgb(218, 218, 218);
 }
 
 a {
-    color: rgb(255,81,0);
+    color: rgb(39, 39, 39);
 }
 
 a:hover {
-    color: #00AEFF;
+    color: rgb(255, 245, 160);
 }
 
 header {
     margin-bottom: 20px;
     padding: 20px;
-    border-bottom: 1px solid rgb(15, 126, 160);
+    border-bottom: 1px solid rgb(92, 92, 92);
 }
 
 header h1 {
@@ -37,7 +37,7 @@ header nav ul li {
 
 .project {
     margin-bottom: 20px;
-    border-bottom: 1px solid rgb(15,126,160)
+    border-bottom: 1px solid rgb(92, 92, 92);
 }
 
 .project img, #aboutme img {
